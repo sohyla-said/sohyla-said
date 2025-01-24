@@ -60,6 +60,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sohyla-said/sohyla-said/output/snake.svg" alt="Snake animation" />
-
-###
