@@ -11,8 +11,8 @@
 ###
 
 <p align="left">
-✨ I am a Junior at Faculty of Computers and Artificial Intelligence, Cairo University. Information systems major.<br>
-📚 I'm currently learning Data Analysis and Backend Development.<br>
+✨ I am a Senior at Faculty of Computers and Artificial Intelligence, Cairo University. Information systems major.<br>
+📚 I'm currently learning Data Science and Backend Development.<br>
 🎲 At my free time, I code on Codeforces and Leetcode.<br>
 🧑‍💻 I love using Software as a solution for every Problem.
 </p>
