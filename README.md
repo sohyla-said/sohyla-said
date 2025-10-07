@@ -56,12 +56,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo" />
   <img width="12" />
-  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" height="40" alt="matplotlib logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
 </div>
 
 ###
+
 
 <h2 align="left">Contact Me</h2>
 
@@ -71,11 +72,14 @@
   <a href="https://www.linkedin.com/in/sohyla-saied-1a00a5271/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:sohylasaid@gmail.com" target="_blank">
+  <a href="mailto:sohylasaid2004@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://sohyla-said.github.io/Portfolio2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="40" alt="portfolio logo" />
+    <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-portfolio-business-recruitment-itim2101-lineal-color-itim2101-2.png" width="52" height="40" alt="portfolio logo" />
+  </a>
+  <a href="https://github.com/sohyla-said" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
   </a>
 </div>
 
